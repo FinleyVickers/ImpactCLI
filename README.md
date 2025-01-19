@@ -48,13 +48,4 @@ java -jar target/impact-cli-1.0-SNAPSHOT-jar-with-dependencies.jar -c -a
 - picocli 4.7.5
 - Maven
 
-## Why This Project?
-
-This project demonstrates:
-- Attention to detail in reading job requirements
-- Familiarity with Java development
-- Understanding of build tools (Maven)
-- Command-line interface design
-- Clean code practices and documentation
-
 Created by Finley Vickers for impact.com Co-op Application 2025
